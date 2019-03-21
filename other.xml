@@ -1,0 +1,23 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.7960928" />
+    <property name="CommitChangeListDialog.SPLITTER_PROPORTION_2" value="0.85139316" />
+    <property name="CommittedChanges.SplitterProportions.0" value="700" />
+    <property name="CommittedChanges.SplitterProportions.1" value="500" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="PhpStorm.InitialConfiguration" value="true" />
+    <property name="PluginConfigurable.selectionTab" value="1" />
+    <property name="SettingsSearchHistory" value="Tab,Indent&#10;indent&#10;Repository&#10;case&#10;data source" />
+    <property name="TrendingPluginsSearchHistory" value="ide settings sync" />
+    <property name="Vcs.Log.Text.Filter.History" value="9469" />
+    <property name="evlsprt3.183" value="14" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/Projects/www.evolutionfunding.com/htdocs&#10;C:/Users/christophershaw/Projects/www.financeproposal.co.uk/htdocs&#10;C:/Users/christophershaw/Projects/www.evolutionfunding.com/htdocs/rental-console&#10;C:/Users/christophershaw/Projects/www.evolutionfunding.com&#10;C:/Users/christophershaw/Projects/www.financeproposal.co.uk&#10;C:/Users/christophershaw/Projects/portfolio-website&#10;C:/Users/christophershaw/Projects/GitHubRepoCache&#10;C:/Users/christophershaw/Projects/new/LogicGate&#10;C:/Users/christophershaw/Projects/test&#10;C:/Program Files/runphp/runphp.cmd&#10;C:/Program Files/Git/cmd/git.exe" />
+    <property name="file.gist.reindex.count" value="39049" />
+    <property name="fileTypeChangedCounter" value="1" />
+    <property name="lastTip" value="67" />
+    <property name="settings.code.style.selected.tab.PHP" value="Tabs and Indents" />
+    <property name="ts.lib.d.ts.version" value="3.2.1" />
+  </component>
+</application>
